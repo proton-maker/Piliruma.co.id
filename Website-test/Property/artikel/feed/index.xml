@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Artikel &#8211; PiliRuma.co.id</title>
+	<atom:link href="/New-project/Property/artikel/feed/" rel="self" type="application/rss+xml" />
+	<link>/New-project/</link>
+	<description>PiliRuma.co.id</description>
+	<lastBuildDate>Wed, 30 Jun 2021 02:34:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+
+<image>
+	<url>/New-project/wp-content/uploads/2021/04/piliruma.co_.id-profile-pic-14-03-2022-150x150.jpg</url>
+	<title>Artikel &#8211; PiliRuma.co.id</title>
+	<link>/New-project/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Cara Membedakan Properti Syariah</title>
+		<link>/New-project/artikel/cara-membedakan-properti-syariah/</link>
+					<comments>/New-project/artikel/cara-membedakan-properti-syariah/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 29 Jun 2021 03:10:11 +0000</pubDate>
+				<category><![CDATA[Artikel]]></category>
+		<category><![CDATA[jual beli rumah]]></category>
+		<category><![CDATA[KPR Syariah]]></category>
+		<category><![CDATA[piliruma]]></category>
+		<category><![CDATA[properti syariah]]></category>
+		<category><![CDATA[rumah syariah]]></category>
+		<guid isPermaLink="false">/New-project/?p=1020</guid>
+
+					<description><![CDATA[Proses Transaksi Di KPR Syariah, transaksi terjadi antara 2 pihak yakni pembeli dan developer. Terjadi akad jual beli antara developer dan konsumen yang disaksikan oleh notaris dan pihak konsumen. Sementara di bank syariah maupun bank konvensional, bank menjadi pihak ketiga yang ikut terlibat. Sistem denda Bank syariah dan konvensional akan memberikan sanksi denda apabila ada &#8230;]]></description>
+		
+					<wfw:commentRss>/New-project/artikel/cara-membedakan-properti-syariah/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
